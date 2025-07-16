@@ -1,0 +1,31 @@
+.Header {
+  color: darkred;
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  border: 2px solid green;
+  font-weight: bold;
+}
+
+.taskBar {
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: cornsilk;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+/*.taskSubHeader {
+  position: relative;
+  text-align: center;
+  top: 50px;
+} */
